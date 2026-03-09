@@ -33,4 +33,4 @@
 
 ## Collaborations
 - Podcasts with Tommy and Zoe Matthea
-- Kuchen Talks series with various guests including Shurjoka, JSTN, and others
+- Kuchen Talks series with various guests including Shurjoka, JSTN, Elena Buscaino, Mina Bonakdar, and others

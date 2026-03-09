@@ -24,10 +24,17 @@
 ## Biography
 - **Real Name**: Marc-Philipp Müller
 - **Born**: 1996
+- **Old Name**: Lebkuchenpferdchen
 - **From**: Frankfurt
+- **Background**: From normal background, early contact with German hip hop, produces all works himself. Participated in BRT 2013 as Lebkuchenpferdchen, VBT 2015.
+- **Career**: 2017 JuliensblogBattle finale, defeated Greeen, feature with Jay Jiggy (1M views), lost to Timatic. Released Der Geheilte during turnier. 2019 Nordkorea Tape, Frisch aus dem Ofen II (videos in LA/SF, deluxe box). 2020 founded Creative Bakery with brother. Aus Gutem Hause EP with Pimf and Favorite. Produced for Jindo109: Kristall Tape (2022), Süchtig Tape (2023). Breakup in 2024, released Jana diss track. Frisch aus dem Ofen III (2024, #48 DE), Kerze (2026, #88 DE).
+- **Controversy**: Jana track accuses Jindo109 of manipulation, domestic violence, drug addiction; she countered in magazine.
 - **Label**: CreativeBakery
-- **Style**: Technical, ironic punchlines, oldschool Kopfnickerbeats, catchy refrains.
-- **Background**: Rapper known for battle turniere, gained fame with underground tape "Der Tote EP" and JBB 2018. Debut album "Frisch aus dem Ofen" #1 on Hiphop.de Newcomercharts.
+- **Style**: Provocative texts with black humor, private life in lyrics, themes of drug use. Critics: Zweckreime, Edginess, outdated beats.
+
+## Collaborations
+- **Artists**: Greeen (defeated in battle), Jay Jiggy (feature), Timatic (lost in battle), Pimf (Aus Gutem Hause), Favorite (Aus Gutem Hause), Jindo109 (produced albums), Zisar, MiZeb
+- **Groups**: Kollabo, Paragraph 84 Allstars, Plastikshit II, Roter Faden, Lidotaxi
 
 ## Discography
 ### Albums
