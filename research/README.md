@@ -1,3 +1,7 @@
+"In der Weihnachtsbäckerei
+steht ein Rennrad
+und es schneit!"
+
 # Research Overview
 
 This folder contains structured research data on Herr Kuchen, Kuchen TV, and Shurjoka, collected from Spotify and YouTube.

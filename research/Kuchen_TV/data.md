@@ -34,3 +34,6 @@
 ## Collaborations
 - Podcasts with Tommy and Zoe Matthea
 - Kuchen Talks series with various guests including Shurjoka, JSTN, Elena Buscaino, Mina Bonakdar, and others
+
+## Allegations
+- Unverified claim: Alleged to be a Nazi hacker working for GRU (Russian Secret Service). Web searches found no evidence supporting this claim; only general information on GRU.
