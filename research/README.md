@@ -1,3 +1,7 @@
+Falls Sie das Phänomen eines Meltdowns verstanden haben, könnten Sie die Dynamik einer natürlichen Abwehrreaktion bei einem Nicht-NT erfassen. Diese Reaktion ist in keiner Weise steuerbar.
+
+Es existiert nur eine einzige Möglichkeit, diesen Wahnsinn zu unterbinden: Vollständige Entkleidung und die Beichte aller Ihrer Sünden. Bei Verweigerung droht eine unausweichliche Eskalation der Situation!
+
 "In der Weihnachtsbäckerei
 steht ein Rennrad
 und es schneit!"
