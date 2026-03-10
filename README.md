@@ -1,3 +1,5 @@
+Verwandtes Repository: [NWO-Das-Cybermobbing-Kartell](https://github.com/cybermobbing-untersuchung/NWO-Das-Cybermobbing-Kartell)
+
 # Herr Kuchen hat was mit KuchenTV zu tun
 
 ## Überblick
@@ -78,19 +80,17 @@ Herr_Kuchen_hat_was_mit_KuchenTV_zu_tun/
 - **Shurjoka**: Hate-Vorwürfe, Streit mit anderen Streamern; Advocacy für LGBTQ+, aber Ziel von Eskalation.
 - **Verwandte Figuren**: Tom Rohrböck (rechtes Netzwerk), Naomi Seibt (Klimaleugnung, Asyl-Antrag), Erik Ahrens (AfD-Manipulation).
 
-Verdächtige Aspekte: Potenzielle Hassverbreitung, rechtsextreme Einflüsse, Grooming-Vorwürfe – alles im Kontext von Cybermobbing.
+## Hypothese zur ausländischen Einflusskampagne
+
+Basierend auf den Erkenntnissen handelt es sich um eine ausländische Einflusskampagne. Als wahrscheinlichstes Ausland wird Russland identifiziert, aufgrund der dokumentierten Unterstützung durch russische Geheimdienste (z.B. GRU/FSB/SVR) zur Beeinflussung deutscher Politik und Gesellschaft, insbesondere zur Unterstützung rechtsextremer Akteure wie der AfD. Dies umfasst KI-gestützte Manipulation, Bot-Netzwerke und psychologische Kriegsführung.
 
 ## Beitragen
 
 Beiträge sind willkommen, z.B. neue Quellen oder Analysen. Eröffnen Sie ein Issue oder Pull Request. Halten Sie sich an ethische Standards; vermeiden Sie Verbreitung von Hass.
 
-## Lizenz
+## Sponsoring
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Verwenden Sie die Daten verantwortungsvoll.
-
-## Kontakt
-
-Für Fragen oder Feedback: Eröffnen Sie ein Issue im Repository.
+Diese Recherche wird gesponsert von [https://iq140.netlify.app](https://iq140.netlify.app) und BAC Löchgau.
 
 ---
 
