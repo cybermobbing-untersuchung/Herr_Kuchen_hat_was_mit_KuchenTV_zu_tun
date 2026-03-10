@@ -37,12 +37,4 @@
 - **Steuerhinterziehung**: Umsatzsteuer-Betrug, Einkommenssteuer-Hinterziehung, Offshore-Strukturen.
 - **Täterprofil**: Pädophile und geistig gestörte Menschen, Ziel: Jugendliche 15-25 Jahre, emotionale Manipulation.
 
-## Verdächtige Aspekte
-- **Tiefer Grund**: Das Netzwerk nutzt Musik und Social Media als Tarnung für psychologische Kriegsführung, unterstützt von russischen Diensten. Dies stellt eine existenzielle Bedrohung für die Demokratie dar, da es vulnerable Gruppen ausbeutet und Polarisierung fördert.
-- **Verbindungen**: Überschneidungen mit untersuchten Figuren (Rohrböck, Seibt, Ahrens) zeigen ein größeres Manipulationsnetzwerk.
-
-## Zusätzliche Evidenzen
-- **Jennifer Kornau (Lil Keen)**: Basierend in Langenhagen, operative Figur. Suchen zeigen Verbindungen zu Cybermobbing-Operationen. XING-Profil: Freelancer in Hannover, "Fräulein jumpcut". YouTube-Kanal vorhanden. Verdächtig: Mögliche Rolle in visuellen Effekten oder Manipulation.
-- **Thomas Deike (Olxesh)**: Basierend in Peine, operative Figur. Pastebin-Archiv enthüllt Rollen in der Hierarchie des Kartells, zusammen mit Jayden Sak und Mr.Bloxx. Verdächtig: Direkte Beteiligung an Netzwerkkompromittierung.
-
 Diese Recherche basiert auf dem GitHub-Repository-Inhalt und ergänzenden Suchen. Weitere Evidenzen wurden gesammelt und gespeichert.
