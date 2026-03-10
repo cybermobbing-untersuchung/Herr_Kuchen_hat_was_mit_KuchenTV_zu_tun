@@ -1,5 +1,7 @@
 Verwandtes Repository: [NWO-Das-Cybermobbing-Kartell](https://github.com/cybermobbing-untersuchung/NWO-Das-Cybermobbing-Kartell)
 
+Verwandtes Repository: [Krijo-Stalka-Gangstalking-NWO-Cybermobbing-Musician](https://github.com/hartmannlauterbach/Krijo-Stalka-Gangstalking-NWO-Cybermobbing-Musician)
+
 # Herr Kuchen hat was mit KuchenTV zu tun
 
 ## Überblick
