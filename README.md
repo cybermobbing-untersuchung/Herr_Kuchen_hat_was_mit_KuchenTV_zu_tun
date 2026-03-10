@@ -14,12 +14,61 @@ Die Untersuchung adressiert wachsende Bedenken bezüglich Cybermobbing in der de
 
 Die Untersuchung ist evidenzbasiert und fokussiert auf dokumentierte Fakten, um fundierte Schlüsse zu ziehen.
 
-## Untersuchungsobjekte
+## Repository-Struktur
+
+```
+Herr_Kuchen_hat_was_mit_KuchenTV_zu_tun/
+├── README.md                              # Haupt-README
+├── .windsurf/                             # IDE-Konfiguration
+├── research/
+│   ├── README.md                          # Übersicht über den Research-Ordner
+│   ├── data/
+│   │   ├── primary_figures/
+│   │   │   ├── herr_kuchen/
+│   │   │   │   ├── data.md                 # Basisdaten Herr Kuchen
+│   │   │   │   ├── deep_research.md        # Tiefe Recherche
+│   │   │   │   ├── Herr_Kuchen_lyrics.md   # Lyrics-Sammlung
+│   │   │   │   └── Spotify_Herr_Kuchen_Artist.md # Spotify-Profil
+│   │   │   ├── kuchen_tv/
+│   │   │   │   ├── data.md                 # Basisdaten Kuchen TV
+│   │   │   │   └── deep_research.md        # Tiefe Recherche
+│   │   │   └── shurjoka/
+│   │   │       ├── data.md                 # Basisdaten Shurjoka
+│   │   │       └── deep_research.md        # Tiefe Recherche
+│   │   └── related_figures/
+│   │       └── deep_research.md            # Tiefe Recherche verwandte Figuren
+│   ├── networks/
+│   │   ├── research_nwo_cartel.md         # NWO-Kartell
+│   │   ├── research_krijo_stalka.md       # Krijo-Stalka
+│   │   └── research_arni_schillah.md      # ArniTheSavage & Schillah
+│   ├── sources/
+│   │   ├── research_data.md               # Zusammengefasste Daten
+│   │   ├── news_articles.md               # News-Artikel
+│   │   ├── temp_append5.md                # Notizen
+│   │   └── related_figures_news.md        # News zu Figuren
+│   ├── videos_and_channels/
+│   │   ├── Herr_Kuchen_youtube_videos.md  # YouTube-Videos Herr Kuchen
+│   │   ├── Kuchen_TV_Channel.md           # Kanal-Info Kuchen TV
+│   │   ├── Shurjoka_IRL_Channel.md        # IRL-Kanal Shurjoka
+│   │   └── Shurjoka_Main_Channel.md       # Hauptkanal Shurjoka
+│   └── lyrics/
+│       ├── Charakter.md                   # Song-Lyrics
+│       ├── Geht_immer.md                  # Song-Lyrics
+│       ├── Hilfe.md                       # Song-Lyrics
+│       ├── Himalayagebirgeflows.md        # Song-Lyrics
+│       ├── Platz.md                       # Song-Lyrics
+│       ├── Schlagbohrmaschine.md          # Song-Lyrics
+│       ├── Tanke_in_Frankreich.md         # Song-Lyrics
+│       ├── Uiuiuiui.md                    # Song-Lyrics
+│       └── Zehn_mal_mehr_weinst.md        # Song-Lyrics
+```
 
 ### Primäre Figuren
 - **Herr Kuchen** (Marc-Philipp Müller, geb. 1996, Frankfurt): Rapper mit 113.600 monatlichen Spotify-Hörern. Bekannt für provokative Texte zu Drogen, Gewalt und Privatleben. Kontroversen: Song "Jana" (Vorwürfe von Missbrauch und Drogenabhängigkeit gegen Ex-Freundin Jana). Karriere: Battles, Produktionen für Jindo109. Label: Creative Bakery.
 - **Kuchen TV** (Tim Heldt, gegr. 2011, 1,19 Mio. Abonnenten): YouTube-Kanal mit Podcasts und "Kuchen Talks". Kontroversen: Strafen wegen Nazi-Symbolen (16.000 Euro, 2025), Videos zu Grooming (z.B. Sakultendo), populistische Titel. Plattformen: Twitch, Instagram.
 - **Shurjoka** (Pia Scholz, 24, Berlin): Streamerin/Gamerin, 56.800 YouTube-Abonnenten. Fokus: Gaming, LGBTQ+-Advocacy. Kontroversen: Hate-Vorwürfe, Streit mit Influencern (z.B. Scurrows, Kuchen TV). Charity-Arbeit, Moderation bei Gamescom.
+
+## Untersuchungsobjekte
 
 ### Verwandte Figuren
 - **Tom Rohrböck**: Politikerberater, beschuldigt der Beeinflussung der AfD und anderer Parteien.
